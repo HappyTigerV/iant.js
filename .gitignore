@@ -1,0 +1,4 @@
+dist/
+src/tsconfig.json
+package.json
+test.html
